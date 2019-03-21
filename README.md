@@ -2,8 +2,8 @@
 Capture XSS
 
 ## ScreenShot
-![Alt text](inc/1.png "screenshot")
-![Alt text](inc/2.png "screenshot")
+![Alt text](https://raw.githubusercontent.com/vsec7/cXss/master/screenshot/1.png "screenshot")
+![Alt text](https://raw.githubusercontent.com/vsec7/cXss/master/screenshot/2.png "screenshot")
 
 #### Created By : Versailles ~ Sec7or Team
 
