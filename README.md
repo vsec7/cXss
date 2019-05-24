@@ -62,7 +62,7 @@ Sisipkan salah satu payload xss di web target .
 **yourdomain.com/cans/**
 
 ## PERHATIAN !
-*Hanya untuk pembelajaran dan kegiatan Ethical Of Hacking, Hal negatif yang anda perbuat dengan tool ini diluar tanggung jawab author*
+*Hanya untuk pembelajaran dan kegiatan **Ethical Hacking**, Hal negatif yang anda perbuat dengan tool ini diluar tanggung jawab author*
 
 Demo : **http://cans.evils.in**
 
